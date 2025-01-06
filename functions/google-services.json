@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "653423727334556675",
+    "firebase_url": "https://contestapi-d185f-default-rtdb.firebaseio.com",
+    "project_id": "contestapi-d185f",
+    "storage_bucket": "contestapi-d1844f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653423727334556675:android:e75ba56484f701c643367",
+        "android_client_info": {
+          "package_name": "com.example.marcusoptimist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcusoptimist",
+            "certificate_hash": "3dbf083b4de854f93441506c861e0a7d7f992944"
+          }
+        },
+        {
+          "client_id": "",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
